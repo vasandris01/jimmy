@@ -6,5 +6,6 @@ public class Main {
     public static boolean isParos(int a) {
         System.out.println("anyad");
         return a % 2 == 0;
+
     }
 }

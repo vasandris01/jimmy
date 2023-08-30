@@ -3,7 +3,7 @@ public class Main {
         System.out.println("mijau");
     }
 
-    public static boolean ispáros(int a){
-        return a%2 == 0;
+    public static boolean isParos(int a) {
+        return a % 2 == 0;
     }
 }
